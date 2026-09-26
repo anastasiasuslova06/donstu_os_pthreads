@@ -1,5 +1,5 @@
-#ifndef PTHREADFUNCS_H
-#define PTHREADFUNCS_H
+// #ifndef PTHREADFUNCS_H
+// #define PTHREADFUNCS_H
 
 #include <stdio.h>
 #include <sys/syscall.h>
@@ -45,4 +45,4 @@ void *func_thread(void *arg);
 
 void about(void);
 
-#endif
+// #endif
